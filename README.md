@@ -1,3 +1,5 @@
+# [building-slim-uwsgi-docker-image](https://bradleyzhou.com/posts/building-slim-uwsgi-docker-image)
+
 # pun
 Docker image for Python-uWSGI-Nginx
 
